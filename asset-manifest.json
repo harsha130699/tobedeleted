@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/harsha130699/tobedeleted/static/css/main.5f361e03.chunk.css",
+    "main.js": "/harsha130699/tobedeleted/static/js/main.940b3518.chunk.js",
+    "main.js.map": "/harsha130699/tobedeleted/static/js/main.940b3518.chunk.js.map",
+    "runtime-main.js": "/harsha130699/tobedeleted/static/js/runtime-main.09a41c66.js",
+    "runtime-main.js.map": "/harsha130699/tobedeleted/static/js/runtime-main.09a41c66.js.map",
+    "static/js/2.ec84887b.chunk.js": "/harsha130699/tobedeleted/static/js/2.ec84887b.chunk.js",
+    "static/js/2.ec84887b.chunk.js.map": "/harsha130699/tobedeleted/static/js/2.ec84887b.chunk.js.map",
+    "index.html": "/harsha130699/tobedeleted/index.html",
+    "precache-manifest.d30ef3052a702458772a90ef94465b02.js": "/harsha130699/tobedeleted/precache-manifest.d30ef3052a702458772a90ef94465b02.js",
+    "service-worker.js": "/harsha130699/tobedeleted/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/harsha130699/tobedeleted/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ec84887b.chunk.js.LICENSE.txt": "/harsha130699/tobedeleted/static/js/2.ec84887b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/harsha130699/tobedeleted/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09a41c66.js",
+    "static/js/2.ec84887b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.940b3518.chunk.js"
+  ]
+}
